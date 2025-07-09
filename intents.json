@@ -1,0 +1,68 @@
+{
+  "intents": [
+    {
+      "tag": "remuneration_satisfaction",
+      "question": "How satisfied were you with your remuneration package and benefits?"
+    },
+    {
+      "tag": "recognition_of_achievements",
+      "question": "Do you think your achievements were recognized and appreciated?"
+    },
+    {
+      "tag": "recognition_frequency",
+      "question": "How frequently did you receive recognition for your work?"
+    },
+    {
+      "tag": "constructive_feedback",
+      "question": "Did you receive frequent, constructive feedback from your manager and peers?"
+    },
+    {
+      "tag": "training_effectiveness",
+      "question": "How satisfied were you with your training in order to perform your job effectively?"
+    },
+    {
+      "tag": "work_life_balance",
+      "question": "How happy were you with work-life balance?"
+    },
+    {
+      "tag": "skills_utilization",
+      "question": "Do you agree that the organization was able to put your skills to good use?"
+    },
+    {
+      "tag": "job_happiness",
+      "question": "How happy were you with the job?"
+    },
+    {
+      "tag": "manager_treatment",
+      "question": "How satisfied were you with your manager's treatment of you?"
+    },
+    {
+      "tag": "company_experience",
+      "question": "How happy were you working for this company?"
+    },
+    {
+      "tag": "recommend_organization",
+      "question": "How likely are you to recommend this organization as a place to work?"
+    },
+    {
+      "tag": "rehire_opinion",
+      "question": "Would you ever consider taking employment with this company again?"
+    },
+    {
+      "tag": "reason_for_leaving",
+      "question": "What is your reason for leaving the company?"
+    },
+    {
+      "tag": "shared_concerns",
+      "question": "Did you share any of your concerns with the company before deciding to leave?"
+    },
+    {
+      "tag": "convincing_change",
+      "question": "Given an opportunity, what could the organization change to potentially convince you to stay?"
+    },
+    {
+      "tag": "future_contact_permission",
+      "question": "Can we call you in the future to discuss your reason for leaving?"
+    }
+  ]
+}

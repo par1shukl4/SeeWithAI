@@ -1,0 +1,32 @@
+scikit-learn
+nltk
+numpy
+pandas
+# Core chatbot dependencies
+google-generativeai==0.4.1
+python-dotenv==1.0.1
+
+# Speech recognition and microphone input
+SpeechRecognition==3.10.1
+pyaudio==0.2.14
+
+# Text-to-speech
+edge-tts==6.1.10
+
+# For handling subprocess (ffmpeg)
+ffmpeg-python==0.2.0
+
+# OpenAI Whisper (for advanced local STT — optional)
+openai-whisper @ git+https://github.com/openai/whisper.git
+
+# OpenAI client (optional, if you switch to OpenAI API)
+openai==1.30.1
+
+# For any model experimentation (optional)
+transformers==4.41.2
+torch==2.3.0
+
+faster-whisper
+sounddevice
+numpy
+torchaudio
